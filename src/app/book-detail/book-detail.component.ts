@@ -5,7 +5,7 @@ import { ActivatedRoute, Router } from '@angular/router';
 @Component({
   selector: 'app-book-detail',
   templateUrl: './book-detail.component.html',
-  styleUrls: ['./book-detail.component.css'],
+  styleUrls: ['./book-detail.component.scss'],
   encapsulation: ViewEncapsulation.None
 })
 export class BookDetailComponent implements OnInit {

@@ -5,7 +5,7 @@ import { HttpClient } from '@angular/common/http';
 @Component({
   selector: 'app-book-create',
   templateUrl: './book-create.component.html',
-  styleUrls: ['./book-create.component.css'],
+  styleUrls: ['./book-create.component.scss'],
   encapsulation: ViewEncapsulation.None
 })
 export class BookCreateComponent implements OnInit {
